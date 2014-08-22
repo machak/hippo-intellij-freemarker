@@ -11,7 +11,7 @@ go to:
 Intellij> settings > plugins > Install plugin from disk
 ```
 and choose select folowing file (click to download):
-[HippoFreemarkerEditor.zip](HippoFreemarkerEditor.zip)
+[HippoFreemarkerEditor.zip](HippoFreemarkerEditor.zip?row=true)
 
 ## SETUP *)
 
